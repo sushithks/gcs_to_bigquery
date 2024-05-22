@@ -1,0 +1,40 @@
+{
+  "BigQuery Schema": [
+    {
+      "name": "Location",
+      "type": "STRING"
+    },
+    {
+      "name": "Temprature",
+      "type": "STRING"
+    },
+    {
+      "name": "feels_like",
+      "type": "STRING"
+    },
+    {
+      "name": "humidity",
+      "type": "STRING"
+    },
+    {
+    "name": "visibility",
+    "type": "STRING"
+    },
+    {
+      "name": "Wind_speed",
+      "type": "STRING"
+    },
+    {
+      "name": "pressure",
+      "type": "STRING"
+    },
+    {
+      "name": "date",
+      "type": "STRING"
+    },
+    {
+      "name": "time",
+      "type": "STRING"
+    }
+  ]
+}
